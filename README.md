@@ -7,5 +7,5 @@ Aplicativo para simular um pedido de esfihas e ao termino, ligar para efetuar o 
 
 ----------
 
-  [2]: https://www.dropbox.com/s/d0v5nonjfykjj37/rei.png
+  [2]: https://dl.dropboxusercontent.com/u/25443479/ReidaEsfiha/rei.png
 
