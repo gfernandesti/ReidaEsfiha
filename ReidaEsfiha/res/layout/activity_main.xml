@@ -16,19 +16,21 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_below="@+id/textView1"
+        android:layout_below="@+id/sabor"
         android:layout_centerHorizontal="true" >
 
     </ListView>
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/sabor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
         android:text="Bem Vindo ao ReidaEsfiha!"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="25dp"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>

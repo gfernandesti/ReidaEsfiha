@@ -4,5 +4,6 @@
     <string name="app_name">ReidaEsfiha</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_listview_layout">Listview_layout</string>
 
 </resources>
